@@ -1,4 +1,4 @@
-Role Name
+Ansible role: dbs_rancher_server
 =========
 
 Role installs rancher server.
