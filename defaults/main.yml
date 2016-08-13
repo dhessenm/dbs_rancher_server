@@ -1,0 +1,9 @@
+---
+# defaults file for dbs_rancher_server
+
+# Docker container name
+rancher_name: ranger_server
+
+# Rancher port on host
+rancher_port: 8080
+
